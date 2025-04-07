@@ -13,7 +13,7 @@ import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import MeetTheTeam from "./components/MeetTheTeam";
-
+import { Analytics } from "@vercel/analytics/react"
 
 // Wrapper component to handle scroll to top on route change
 const ScrollToTop = () => {
