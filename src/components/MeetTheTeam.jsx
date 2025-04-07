@@ -14,7 +14,7 @@ const MeetTheTeam = () => {
         {/* CEO */}
         <div className="flex flex-col items-center text-center">
           <img
-            src="src/assets/narendra-babu.jpg"
+            src="/assets/narendra-babu.jpg"
             alt="Narendra Babu"
             className="w-40 h-40 rounded-full object-cover shadow-lg mb-4"
           />
@@ -28,7 +28,7 @@ const MeetTheTeam = () => {
         {/* HR */}
         <div className="flex flex-col items-center text-center">
           <img
-            src="src/assets/rohan.jpg"
+            src="/assets/rohan.jpg"
             alt="Rohan A"
             className="w-40 h-40 rounded-full object-cover shadow-lg mb-4"
           />

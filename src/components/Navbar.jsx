@@ -48,9 +48,9 @@ const Navbar = () => {
               onClick={closeMenu}
             >
              <span className="flex items-center space-x-4 transition-all duration-300 hover:from-violet-500 hover:to-indigo-500">
-  <img src="src/assets/msme.png" alt="MSME Registered" className="h-16 w-30" />
+  <img src="/assets/msme.png" alt="MSME Registered" className="h-16 w-30" />
 <span>  </span><span>  </span>
-  <img src="src/assets/logo.jpg" alt="ZORO INNOVATIONS" className="h-16 w-30" />
+  <img src="/assets/logo.jpg" alt="ZORO INNOVATIONS" className="h-16 w-30" />
 </span>
 
 

@@ -11,7 +11,7 @@ const Portfolio = () => {
     {
       title: "Job Portel",
       description: "Job Portel Web Application",
-      image: "/src/assets/jbp.png",
+      image: "/assets/jbp.png",
       category: "Web",
       technologies: ["React", "Node.js", "AWS"],
       metrics: [
@@ -22,7 +22,7 @@ const Portfolio = () => {
     {
       title: "Diploma Dostha Mobile App",
       description: "Your ultimate study companion! Access materials. ",
-      image: "/src/assets/ddostha.png",
+      image: "/assets/ddostha.png",
       category: "Mobile",
       technologies: ["Flutter", "Dart"],
       metrics: [
@@ -33,7 +33,7 @@ const Portfolio = () => {
     {
       title: "Study Application",
       description: "Free Course Android Application",
-      image: "/src/assets/accc.png",
+      image: "/assets/accc.png",
       category: "AIML",
       technologies: ["Flutter", "Firebase"],
       metrics: [
